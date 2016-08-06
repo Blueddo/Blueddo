@@ -1,0 +1,190 @@
+﻿#EXTM3U
+
+#EXTINF:-1,[COLOR lime]Ξενη[/COLOR] [COLOR chartreuse]Τηλεοραση[/COLOR][/COLOR]
+http://0.0.0.0:12345
+#EXTINF:-1,[COLOR orange]Ενημέρωση Λίστας - 2/07/2016 17:45[/COLOR]
+http://0.0.0.0:12345
+
+#EXTINF:-1, tvg-logo="" group-title="ΓΚΡΟΥΠ", [COLOR yellow]ONOMA[/COLOR]
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΓΚΡΟΥΠ", [COLOR yellow]ONOMA[/COLOR]
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#EXTINF:-1, tvg-logo="RaiUno.it" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 1[/COLOR]
+https://raiuno1hls-lh.akamaihd.net/i/raiuno1_1@37570/master.m3u8?hdnea=st=1467720351~exp=1467720471~acl=/*~hmac=c6847d3ada1d928b2c158c8623310a390bf7fe20b26a200020763088529f14fc
+#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 2[/COLOR]
+https://raidue1hls-lh.akamaihd.net/i/raidue1_1@322403/master.m3u8?hdnea=st=1467758183~exp=1467758303~acl=/*~hmac=0ed940e55d5aaa2930a77f7e04de610ff82a66154598a64f624b79807737a140
+#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 3[/COLOR]
+https://raitre1hls-lh.akamaihd.net/i/raitre1_1@35171/master.m3u8?hdnea=st=1467758268~exp=1467758388~acl=/*~hmac=a271134b89bc351cbb3a285f20284989118a1c8d0847c38f27447affcfcba0fb
+#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 4[/COLOR]
+https://raiquattro1hls-lh.akamaihd.net/i/raiquattro1_1@335025/master.m3u8?hdnea=st=1467758348~exp=1467758468~acl=/*~hmac=519664bf4374b9eb3e6a48aaf435e49ad1a6dc66c44d74c7b30562922a913be2
+#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 5[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8?auth=daEcPdNdybqdfbabzaXcycndIc0bwaKcFay-bxFdC5-c0-BmAxvFt&aifp=
+#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI MOVIE[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?auth=daEaMavdkbKa.aEcJbRcEc5bHb_adbWc2dG-bxFdGa-c0-IjsxrFt&aifp=V001
+#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI PREMIUM[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8?auth=daEaybYb9bbdXdQbadXcwazbec0blaxc_bO-bxFdFB-c0-EkrvsFo&aifp=V001
+#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI NEWS[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8?auth=daEcId2a6c5afaScEc4cDbKbudadvbGbycg-bxFdHL-c0-EmvuzGu&aifp=V001
+
+#EXTINF:-1, tvg-logo=http://bit.ly/1qgZrTw, group-title="ΜΟΥΣΙΚΑ", [COLOR yellow]DJING Animation HD (Music) (US)[/COLOR]
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1, tvg-logo=http://bit.ly/1XpfMkd, group-title="ΜΟΥΣΙΚΑ", [COLOR yellow]DJING Classic HD (Music) (US)[/COLOR]
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1, tvg-logo=http://bit.ly/1XpfMkd, group-title="ΜΟΥΣΙΚΑ", [COLOR yellow]DJING Dancefloor HD (Music) (US)[/COLOR]
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1, tvg-logo=http://bit.ly/1VgZSuj, group-title="ΜΟΥΣΙΚΑ", [COLOR yellow]DJING Underground HD (Music) (US)[/COLOR]
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1, tvg-logo=http://bit.ly/1WlLX5E, group-title="ΜΟΥΣΙΚΑ", [COLOR yellow]VEVO 1 HD (Music) (US)[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1, tvg-logo=http://bit.ly/1WlLX5E, group-title="ΜΟΥΣΙΚΑ", [COLOR yellow]VEVO 2 (Music) (US)[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1, tvg-logo=http://bit.ly/1WlLX5E, group-title="ΜΟΥΣΙΚΑ", [COLOR yellow]VEVO 3 HD (Music) (US)[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-shift="-3" tvg-logo="" group-title="ΠΑΙΔΙΚΑ",[COLOR orange]NICK JR. 0+[/COLOR] 
+http://over.ddns.net:65202
+#EXTINF:-1 tvg-id="" tvg-shift="-3" tvg-logo="" group-title="ΠΑΙΔΙΚΑ",[COLOR orange]BOOMERANG[/COLOR]
+http://hls.svc.moyo.tv/hls/CH_BOOMERANG/bw1896000/variant.m3u8
+#EXTINF:-1, tvg-id="Kika.de" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]KIKA Germany[/COLOR]
+
+#EXTINF:-1, tvg-id="RaiGulp.it" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Rai Gulp[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1, tvg-id="RaiYoyo.it" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Rai YoYo[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Cartoon Network RU[/COLOR]
+http://vs8.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8?slynet.tv
+#EXTINF:-1, tvg-id="" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Cartoon Network USA[/COLOR]
+
+#EXTINF:-1, tvg-id="243.TRT Çocuk - TRT4.digiturk.com.tr" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]TRT ÇOCUK[/COLOR]
+http://www.iptvsaga.com/play/tv3/0053.m3u8
+#EXTINF:-1, tvg-id="8175.MINIKA COCUK.dsmart.com.tr" tvg-logo="http://bit.ly/29uSojl" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Minika Çocuk[/COLOR]
+
+#EXTINF:-1, tvg-id="Ric.de" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]RIC Kids[/COLOR]
+http://www.iptvsaga.com/play/tv3/0118.m3u8
+#EXTINF:-1, tvg-id="Ric.de" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]GULLI[/COLOR]
+http://95.183.46.200:7088/udp/239.195.1.52:1234
+#EXTINF:-1, tvg-id="" tvg-logo=http://over.ddns.net/channels/android/240/jimjam.png , group-title="ΠΑΙΔΙΚΑ", [COLOR orange]JimJam[/COLOR]
+http://over.ddns.net:65201
+
+#EXTINF:-1, tvg-id="NatGeoWild.gr" tvg-logo=http://over.ddns.net/channels/android/240/wild.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]National Geographic Wild[/COLOR]
+http://over.ddns.net:65211
+#EXTINF:-1, tvg-id="natgeo.gr" tvg-logo=http://over.ddns.net/channels/android/240/natgeo.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]National Geographic RU[/COLOR]
+ http://over.ddns.net:65203
+#EXTINF:-1, tvg-id="animalplanet.gr" tvg-logo=http://over.ddns.net/channels/android/240/animal.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]Animal Planet[/COLOR] 
+http://over.ddns.net:65210
+#EXTINF:-1, tvg-id='TheHistoryChannel.gr' tvg-logo=http://over.ddns.net/channels/android/240/history.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]History Channel[/COLOR]
+http://over.ddns.net:65205/
+#EXTINF:-1, tvg-id='discovery.gr' tvg-logo=http://over.ddns.net/channels/android/240/discovery.png , [COLOR mediumslateblue]Discovery Channel[/COLOR]
+http://over.ddns.net:65204/
+#EXTINF:-1, tvg-id='DiscoveryScience.gr' tvg-logo="" group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR yellow]Discovery Science[/COLOR]
+http://over.ddns.net:65212/
+#EXTINF:-1, tvg-id='DiscoveryID.gr' tvg-logo=http://over.ddns.net/channels/android/240/id.png , [COLOR mediumslateblue]Discovery IDXtra[/COLOR]
+http://over.ddns.net:65208/
+
+#EXTINF:-1, tvg-id='fox.gr' tvg-logo=http://over.ddns.net/channels/android/240/fox.png , group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR mediumslateblue]Fox Channel[/COLOR]
+http://ipsatpro.com:8000/live/bozil/bozil/1421.ts
+#EXTINF:-1, tvg-id='Foxlife.gr' tvg-logo=http://over.ddns.net/channels/android/240/foxlife.png , group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR mediumslateblue]Fox Life[/COLOR]
+http://ipsatpro.com:8000/live/emran/emran/859.ts
+
+#EXTINF:-1, tvg-id='EuroSport1.gr' tvg-logo=http://over.ddns.net/channels/android/240/eurosport.png , group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]EUROSPORT 1[/COLOR]
+http://over.ddns.net:65265/
+#EXTINF:-1, tvg-id='EuroSport2.gr' tvg-logo=http://over.ddns.net/channels/android/240/eurosport2.png , group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]EUROSPORT 2[/COLOR]
+http://over.ddns.net:65266/
+#EXTINF:-1, tvg-id='RaiSport1.it' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]Rai Sport 1[/COLOR]
+mmsh://212.162.68.163:80/raisport+
+#EXTINF:-1, tvg-id='RaiSport2.it' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]Rai Sport 2[/COLOR]
+http://over.ddns.net:65004/
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]FOX SPORT 1[/COLOR]
+http://103.7.57.30/live/FOX-SPORTS-1.m3u8
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]FOX SPORT 2[/COLOR]
+http://103.7.57.30/live/FOX-SPORTS-2.m3u8
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]FOX SPORT 3[/COLOR]
+http://103.7.57.30/live/FOX-SPORTS-3.m3u8
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]FOX SPORT NEWS[/COLOR]
+http://103.7.57.30/live/FOX-SPORTS-NEWS.m3u8
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]MOTOSPORT 1[/COLOR]
+http://motorsport.hopto.org:8080/
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]MOTOSPORT 2[/COLOR]
+http://motorsport.hopto.org:8081/
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]MOTOSPORT 3[/COLOR]
+http://motorsport.hopto.org:8082/
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]MOTOSPORT 4[/COLOR]
+http://motorsport.hopto.org:8084/
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]Super sport 1[/COLOR]
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]Super sport 2[/COLOR]
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]Super sport 3[/COLOR]
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ", [COLOR yellow]EXTREME SPORTS[/COLOR]
+http://95.183.46.200:7088/udp/239.195.1.6:1234
+
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ",UP RADIO 88.6
+http://netradio.live24.gr/886radio
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR blue][B]Voices of Trance[/B][/COLOR]
+http://198.50.155.189:8008
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR blue]GIRLS VOCAL TRANCE[/COLOR]
+http://79.111.119.48:1000
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR blue]TRANCE MUSIC[/COLOR]
+http://radiotoma.com:8000/stream_128_023.mp3
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR orange]TECHNO MUSIC[/COLOR]
+http://radiotoma.com:8000/stream_128_013.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR orange]TECHNO HOUSE[/COLOR]
+http://radiotoma.com:8000/stream_128_104.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR orange]TECHNO RAVE[/COLOR]
+http://radiotoma.com:8000/stream_128_105.mp3
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR grey]DISCO 80[/COLOR]
+http://radiotoma.com:8000/stream_128_007.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR grey]DISCO 90[/COLOR]
+http://radiotoma.com:8000/stream_128_009.mp3
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]BEATLES[/COLOR]
+http://radiotoma.com:8000/stream_128_022.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]QUEEN[/COLOR]
+http://radiotoma.com:8000/stream_128_088.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]DEPECHE MODE[/COLOR]
+http://radiotoma.com:8000/stream_128_097.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]DEEP PURPLE[/COLOR]
+http://radiotoma.com:8000/stream_128_084.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]AC/DC[/COLOR]
+http://radiotoma.com:8000/stream_128_099.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]BLACK SABBATH[/COLOR]
+http://radiotoma.com:8000/stream_128_089.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]SCORPIONS[/COLOR]
+http://radiotoma.com:8000/stream_128_087.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]METALLICA[/COLOR]
+http://radiotoma.com:8000/stream_128_071.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]IRON MAIDEN[/COLOR]
+http://108.166.162.179:7084/;
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]KISS[/COLOR]
+http://radiotoma.com:8000/stream_128_103.mp3
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]LED ZEPPELIN[/COLOR]
+http://108.166.162.179:7108/;
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+#EXTINF:0 radio="true"tvg-logo="" group-title="ΡΑΔΙΟ", [COLOR yellow]NAME[/COLOR]
+
+
+
+Esta lista contiene canales encontrados por la web.
+Solo para uso personal.
+Prohibida su venta.
+"GeneIPTV 2015"
