@@ -5,11 +5,11 @@ http://0.0.0.0:12345
 #EXTINF:-1,[COLOR white]Ενημέρωση Λίστας[/COLOR] - [COLOR gold]31/07/2016 17:30[/COLOR]
 http://0.0.0.0:12345
 
-#EXTINF:-0,          <---------------------ΠΑΝΕΛΛΑΔΙΚΑ--------------------->
+                     <---------------------ΠΑΝΕΛΛΑΔΙΚΑ--------------------->
 
-#EXTINF:-1, tvg-logo="http://i.imgur.com/nbS3IKQ.png" [COLOR deepskyblue]EPT1[/COLOR]
+#EXTINF:-1, EPT1
  http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="EPT1.gr" tvg-logo="http://i.imgur.com/nbS3IKQ.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]EPT1 BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]EPT1 BUP 1[/COLOR]
  http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8
 #EXTINF:-1, tvg-id="EPT1.gr" tvg-logo="http://i.imgur.com/nbS3IKQ.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]EPT1 Youtube[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=VaviMC3KGtQ
