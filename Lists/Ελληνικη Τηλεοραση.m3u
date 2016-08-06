@@ -7,94 +7,94 @@ http://0.0.0.0:12345
 
                      <---------------------ΠΑΝΕΛΛΑΔΙΚΑ--------------------->
 
-#EXTINF:-1, EPT1
+#EXTINF:-1, [COLOR red]EPT1[/COLOR]
  http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 #EXTINF:-1, [COLOR red]EPT1 BUP 1[/COLOR]
  http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8
-#EXTINF:-1, tvg-id="EPT1.gr" tvg-logo="http://i.imgur.com/nbS3IKQ.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]EPT1 Youtube[/COLOR]
+#EXTINF:-1, [COLOR red]EPT1 Youtube[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=VaviMC3KGtQ
-#EXTINF:-1, tvg-id="EPT2.gr" tvg-logo="http://i.imgur.com/gCFl7VI.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]EPT2[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]EPT2[/COLOR]
  http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="EPT2.gr" tvg-logo="http://i.imgur.com/gCFl7VI.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]EPT2 BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]EPT2 BUP 1[/COLOR]
  http://ert2world-lh.akamaihd.net/i/live_1@367166/master.m3u8
-#EXTINF:-1, tvg-id="EPT2.gr" tvg-logo="http://i.imgur.com/gCFl7VI.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]EPT2 BUP 2[/COLOR]
+#EXTINF:-1, [COLOR red]EPT2 BUP 2[/COLOR]
  plugin://plugin.video.youtube/play/?video_id=TyvdueFoCfA
-#EXTINF:-1, tvg-id="EPT3.gr" tvg-logo="http://i.imgur.com/0Oz56bA.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]EPT3[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]EPT3[/COLOR]
  plugin://plugin.video.youtube/play/?video_id=TAPQISON4YM
-#EXTINF:-1, tvg-id="EPT3.gr" tvg-logo="http://i.imgur.com/0Oz56bA.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]EPT3 BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]EPT3 BUP 1[/COLOR]
  http://ert3-lh.akamaihd.net/i/live_1@329806/master.m3u8
-#EXTINF:-1, tvg-id="mega.gr" tvg-logo="http://i.imgur.com/tSNcPRn.gif" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]MEGA[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]MEGA[/COLOR]
  http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="mega.gr" tvg-logo="http://i.imgur.com/tSNcPRn.gif" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]MEGA BUP 2[/COLOR]
+#EXTINF:-1, [COLOR red]MEGA BUP 2[/COLOR]
  http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
-#EXTINF:-1, tvg-id="mega.gr" tvg-logo="http://i.imgur.com/tSNcPRn.gif" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]MEGA BUP 3[/COLOR]
+#EXTINF:-1, [COLOR red]MEGA BUP 3[/COLOR]
  http://over.ddns.net:65110/
-#EXTINF:-1, tvg-id="ANT1.gr" tvg-logo="http://i.imgur.com/Pk6b6et.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]ANT1[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]ANT1[/COLOR]
  http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="ANT1.gr" tvg-logo="http://i.imgur.com/Pk6b6et.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]Ant1 BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]Ant1 BUP 1[/COLOR]
  http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-#EXTINF:-1, tvg-id="ANT1.gr" tvg-logo="http://i.imgur.com/Pk6b6et.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]Ant1 BUP 2[/COLOR]
+#EXTINF:-1, [COLOR red]Ant1 BUP 2[/COLOR]
  http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:-1, tvg-id="star.gr" tvg-logo="http://i.imgur.com/30uLkyA.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]STAR[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]STAR[/COLOR]
  http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="star.gr" tvg-logo="http://i.imgur.com/30uLkyA.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]Star BUP 2[/COLOR]
+#EXTINF:-1, [COLOR red]Star BUP 2[/COLOR]
  http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:-1, tvg-id="star.gr" tvg-logo="http://i.imgur.com/30uLkyA.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]Star BUP 3[/COLOR]
+#EXTINF:-1, [COLOR red]Star BUP 3[/COLOR]
  http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
-#EXTINF:-1, tvg-id="alpha.gr" tvg-logo="http://i.imgur.com/UzJNech.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]ALPHA[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]ALPHA[/COLOR]
  http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="alpha.gr" tvg-logo="http://i.imgur.com/UzJNech.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]Alpha BUP 2[/COLOR]
+#EXTINF:-1, [COLOR red]Alpha BUP 2[/COLOR]
  http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
-#EXTINF:-1, tvg-id="ETV.gr" tvg-logo="http://i.imgur.com/fojL2bG.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]ΕΨΙΛΟΝ TV[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]ΕΨΙΛΟΝ TV[/COLOR]
  http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:-1, tvg-id="ETV.gr" tvg-logo="http://i.imgur.com/fojL2bG.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]ΕΨΙΛΟΝ TV BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]ΕΨΙΛΟΝ TV BUP 1[/COLOR]
  http://www.iptvsaga.com/play/tv3/0143.m3u8
-#EXTINF:-1, tvg-id="Skai.gr" tvg-logo="http://i.imgur.com/xYOQeIj.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]ΣΚΑΙ[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]ΣΚΑΙ[/COLOR]
  http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="Skai.gr" tvg-logo="http://i.imgur.com/xYOQeIj.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]ΣΚΑΙ BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]ΣΚΑΙ BUP 1[/COLOR]
  plugin://plugin.video.youtube/play/?video_id=v0a6ZLsGb6Q
-#EXTINF:-1, tvg-id="Macedonia.gr" tvg-logo="http://i.imgur.com/wCnAUot.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]ΜΑΚΕΔΟΝΙΑ TV[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]ΜΑΚΕΔΟΝΙΑ TV[/COLOR]
  http://over.ddns.net:65109
-#EXTINF:-1, tvg-id="Macedonia.gr" tvg-logo="http://i.imgur.com/wCnAUot.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]ΜΑΚΕΔΟΝΙΑ TV BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]ΜΑΚΕΔΟΝΙΑ TV BUP 1[/COLOR]
  http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:-1, tvg-id="APT.gr" tvg-logo="http://i.imgur.com/Comxiil.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]ΑΡΤ[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]ΑΡΤ[/COLOR]
  http://over.ddns.net:65107
-#EXTINF:-1, tvg-id="APT.gr" tvg-logo="http://i.imgur.com/Comxiil.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]ΑΡΤ BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]ΑΡΤ BUP 1[/COLOR]
  https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
-#EXTINF:-1, tvg-id="Extra.gr" tvg-logo="http://i.imgur.com/fmrqBcI.jpg" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]Extra[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]Extra[/COLOR]
  rtmp://213.16.167.186:1935/live/mpegts_256.stream
-#EXTINF:-1, tvg-id="Kontra.gr" tvg-logo="http://i.imgur.com/GlLp3Ic.jpg" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]Kontra Channel[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]Kontra Channel[/COLOR]
  http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1, tvg-id="Action24.gr" tvg-logo="http://www.lyngsat-logo.com/hires/aa/action_24_gr.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]Action 24[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]Action 24[/COLOR]
  http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
-#EXTINF:-1, tvg-id="vouli.gr" tvg-logo="http://escxtra.com/flags/Greece.png" group-title="ΠΑΝΕΛΛΑΔΙΚΑ", [COLOR deepskyblue]ΒΟΥΛΗ[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]ΒΟΥΛΗ[/COLOR]
  http://over.ddns.net:65104
-#EXTINF:-1, tvg-id="vouli.gr" tvg-logo="http://i.imgur.com/N1NbcYV.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]ΒΟΥΛΗ BUP 1[/COLOR]
+#EXTINF:-1, [COLOR red]ΒΟΥΛΗ BUP 1[/COLOR]
  http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1, tvg-id="vouli.gr" tvg-logo="http://i.imgur.com/N1NbcYV.png" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]ΒΟΥΛΗ BUP 2[/COLOR]
+#EXTINF:-1, [COLOR red]ΒΟΥΛΗ BUP 2[/COLOR]
  mms://media19.internet.gr/ParliamentTV-HQ
  
 #EXTINF:-0,          <---------------------ΠΕΡΙΦΕΡΕΙΑΚΑ--------------------->
 
-#EXTINF:-1, tvg-logo="http://i.imgur.com/76rbwGE.jpg",group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR deepskyblue]TV-100[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]TV-100[/COLOR]
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/ZXBfth7.jpg", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR deepskyblue]ΒΕΡΓΙΝΑ[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]ΒΕΡΓΙΝΑ[/COLOR]
 http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/iOv12tV.png", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR blue]ΔΙΚΤΥΟ TV[/COLOR]
+#EXTINF:-1, [COLOR blue]ΔΙΚΤΥΟ TV[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/QTqlToQ.png", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR blue]ENA CHANNEL[/COLOR]
+#EXTINF:-1, [COLOR blue]ENA CHANNEL[/COLOR]
 http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/5GXo7d3.png", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR blue]R CHANNEL[/COLOR]
+#EXTINF:-1, [COLOR blue]R CHANNEL[/COLOR]
 http://94.23.218.186:1935/kanali5/kanali5/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/A5ty4Az.png", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR blue]STAR BΟΡΕΙΟΥ EΛΛΑΔΟΣ[/COLOR]
+#EXTINF:-1, [COLOR blue]STAR BΟΡΕΙΟΥ EΛΛΑΔΟΣ[/COLOR]
 mmsh://radiofeeds1.mediabox.gr/startv
-#EXTINF:-1, tvg-logo="http://i.imgur.com/WXlf12i.png", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR blue]ΘΡΑΚΗ NET[/COLOR]
+#EXTINF:-1, [COLOR blue]ΘΡΑΚΗ NET[/COLOR]
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/PNlJ9g5.png", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR blue]TV ΕΠΙΛΟΓΕΣ[/COLOR]
+#EXTINF:-1, [COLOR blue]TV ΕΠΙΛΟΓΕΣ[/COLOR]
 http://www.ustream.tv/channel/14718903
-#EXTINF:-1, tvg-logo="http://i.imgur.com/dPYhckT.png", group-title="ΕΦΕΔΡΙΚΑ",[COLOR blue]TV ΕΠΙΛΟΓΕΣ[/COLOR]
+#EXTINF:-1, [COLOR blue]TV ΕΠΙΛΟΓΕΣ[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/5fAgbi5.png", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR blue] ΔΕΛΤΑ TV [/COLOR]
+#EXTINF:-1, [COLOR blue] ΔΕΛΤΑ TV [/COLOR]
 mms://deltatv1.dyndns.org:1194
 #EXTINF:-1, tvg-logo="http://i.imgur.com/Eo9S53w.jpg", group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ", [COLOR blue]EUROPE ONE[/COLOR]
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
@@ -275,29 +275,29 @@ http://orbit-iptv.com:2500/live/l5TddgRCKU/c02RNSnel1/3213.ts
 
 #EXTINF:-0,          <---------------------ΠΑΙΔΙΚΑ--------------------->
 
-#EXTINF:-1, tvg-id="Nickelodeon.gr" tvg-logo=http://over.ddns.net/channels/android/240/nick.png , group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Nickelodeon Greece[/COLOR]
+#EXTINF:-1, [COLOR orange]Nickelodeon Greece[/COLOR]
 http://hls.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8?token=be11947a7296bdd63a0d3f764f7fe3f7
-#EXTINF:-1, tvg-id="" tvg-shift="-3" tvg-logo=http://over.ddns.net/channels/android/240/nick.png , group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Nickelodeon[/COLOR]
+#EXTINF:-1, [COLOR orange]Nickelodeon[/COLOR]
 http://hls.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8?token=be11947a7296bdd63a0d3f764f7fe3f7$OPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
-#EXTINF:-1, tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-shift="1" tvg-logo="http://i5.satexpat.com/cha/it/raiGulp_95x51.png" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Rai Gulp[/COLOR]
+#EXTINF:-1, [COLOR orange]Rai Gulp[/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1, tvg-id="RaiYoyo.it" tvg-name="Rai YoYo" tvg-shift="1" tvg-logo="http://www.satexpat.com/img/cha/it/raiYoYo_95x51.png" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Rai YoYo[/COLOR]
+#EXTINF:-1, [COLOR orange]Rai YoYo[/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="Cartoon Network" tvg-shift="4" tvg-logo="https://www.canlitvizle.io/wp-content/uploads/2016/03/cartoonnetwork.png" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Cartoon Network RU[/COLOR]
+#EXTINF:-1, [COLOR orange]Cartoon Network RU[/COLOR]
 http://vs8.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8?slynet.tv
-#EXTINF:-1, tvg-id="" tvg-name="TRT ÇOCUK" tvg-logo="https://www.canlitvizle.io/wp-content/uploads/2016/03/trtcocuk.png" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]TRT ÇOCUK[/COLOR]
+#EXTINF:-1, [COLOR orange]TRT ÇOCUK[/COLOR]
 http://www.iptvsaga.com/play/tv3/0053.m3u8
-#EXTINF:-1, tvg-id="8175.MINIKA COCUK.dsmart.com.tr" tvg-name="MINIKA COCUK" tvg-logo="http://www.ehdcanlitvizle.com/kanallar/minika-cocuk.png" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Minika Çocuk[/COLOR]
+#EXTINF:-1, [COLOR orange]Minika Çocuk[/COLOR]
 http://yayin3.canlitv.com:1935/canlitv/minikacocuk/chunklist_w775795466.m3u8?hash=b27471da804f635768ba6131774e891e
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.canlitvizle.io/wp-content/uploads/2016/03/minikago.png" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Minika GO[/COLOR]
+#EXTINF:-1, [COLOR orange]Minika GO[/COLOR]
 http://yayin3.canlitv.com:1935/canlitv/minikago/chunklist_w327968181.m3u8?hash=b27471da804f635768ba6131774e891e
-#EXTINF:-1, tvg-id="RiC.de" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]RIC Kids[/COLOR]
+#EXTINF:-1, [COLOR orange]RIC Kids[/COLOR]
 http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8|X-Forwarded-For=91.63.136.21
-#EXTINF:-1, tvg-id="RiC.de" tvg-logo="" group-title="ΕΦΕΔΡΙΚΑ", [COLOR red]RIC Kids[/COLOR]
+#EXTINF:-1, [COLOR red]RIC Kids[/COLOR]
 http://www.iptvsaga.com/play/tv3/0118.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="http://i.imgur.com/UKdSX5z.png" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]WZRA Kids[/COLOR]
+#EXTINF:-1, [COLOR orange]WZRA Kids[/COLOR]
 mmsh://wpso.com:200/kids
-#EXTINF:-1, tvg-id="" tvg-logo="" group-title="ΠΑΙΔΙΚΑ", [COLOR orange]Camp Cartoon[/COLOR]
+#EXTINF:-1, [COLOR orange]Camp Cartoon[/COLOR]
 rtsp://72.13.93.186/campcartoon
 
 #EXTINF:-0,          <---------------------ΝΤΟΚΙΜΑΝΤΕΡ--------------------->
