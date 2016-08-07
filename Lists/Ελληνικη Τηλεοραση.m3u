@@ -7,7 +7,7 @@ http://0.0.0.0:12345
 
                      <---------------------ΠΑΝΕΛΛΑΔΙΚΑ--------------------->
 
-#EXTINF:-1, [COLOR red]EPT1[/COLOR]
+#EXTINF:-1, [COLOR deepskyblue]EPT1[/COLOR]
  http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
 #EXTINF:-1, [COLOR red]EPT1 BUP 1[/COLOR]
  http://ertworld-lh.akamaihd.net/i/live_1@362313/master.m3u8
@@ -277,8 +277,6 @@ http://orbit-iptv.com:2500/live/l5TddgRCKU/c02RNSnel1/3213.ts
 
 #EXTINF:-1, [COLOR orange]Nickelodeon Greece[/COLOR]
 http://hls.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8?token=be11947a7296bdd63a0d3f764f7fe3f7
-#EXTINF:-1, [COLOR orange]Nickelodeon[/COLOR]
-http://hls.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8?token=be11947a7296bdd63a0d3f764f7fe3f7$OPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
 #EXTINF:-1, [COLOR orange]Rai Gulp[/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1, [COLOR orange]Rai YoYo[/COLOR]
@@ -302,48 +300,48 @@ rtsp://72.13.93.186/campcartoon
 
 #EXTINF:-0,          <---------------------ΝΤΟΚΙΜΑΝΤΕΡ--------------------->
 
-#EXTINF:-1, tvg-id="NatGeoWild.gr" tvg-logo=http://over.ddns.net/channels/android/240/natgeowild.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]National Geographic Wild HD Greece[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]National Geographic Wild HD Greece[/COLOR]
 http://ipsatpro.com:8000/live/bozil/bozil/1422.ts
-#EXTINF:-1, tvg-id="NatGeoWild.gr" tvg-logo=http://over.ddns.net/channels/android/240/wild.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]National Geographic Wild[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]National Geographic Wild[/COLOR]
 http://hls.svc.moyo.tv/hls/CH_NATGEOWILDHD/variant.m3u8?version=2
-#EXTINF:-1, tvg-id="natgeo.gr" tvg-logo=http://over.ddns.net/channels/android/240/natgeo.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]National Geographic (Russia)[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]National Geographic (Russia)[/COLOR]
 http://hls.svc.moyo.tv/hls/CH_NATGEO/bw1758000/variant.m3u8?version=2
-#EXTINF:-1, tvg-id="animalplanet.gr" tvg-logo=http://over.ddns.net/channels/android/240/animal.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]Animal Planet[/COLOR] 
+#EXTINF:-1, [COLOR mediumslateblue]Animal Planet[/COLOR] 
 http://hls.svc.moyo.tv/hls/CH_ANIMALPLANET/variant.m3u8?version=2
-#EXTINF:-1, tvg-id='TheHistoryChannel.gr' tvg-logo=http://over.ddns.net/channels/android/240/history.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]History Channel[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]History Channel[/COLOR]
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1, tvg-id='discovery.gr' tvg-logo=http://over.ddns.net/channels/android/240/discovery.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]Discovery Channel[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]Discovery Channel[/COLOR]
 http://hls.svc.moyo.tv/hls/CH_DISCOVERYCHANNEL/bw1758000/variant.m3u8
-#EXTINF:-1, tvg-id='DiscoveryScience.gr' tvg-logo="" group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]Discovery Science[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]Discovery Science[/COLOR]
 http://over.ddns.net:65212/
-#EXTINF:-1, tvg-id='DiscoveryID.gr' tvg-logo=http://over.ddns.net/channels/android/240/id.png , group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]Discovery IDXtra[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]Discovery IDXtra[/COLOR]
 http://over.ddns.net:65208/
-#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]Discovery Science[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]Discovery Science[/COLOR]
 http://46.99.168.118:9981/stream/channelid/431755377?ticket=F98F6DC1CCC54C6B7C0F61CF3398BB0CD71E3314&profile=pass
-#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]Travel TV[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]Travel TV[/COLOR]
 rtmp://87.106.219.140/live//myStream_2
-#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΝΤΟΚΙΜΑΝΤΕΡ", [COLOR mediumslateblue]Travel TV (Bulgaria)[/COLOR]
+#EXTINF:-1, [COLOR mediumslateblue]Travel TV (Bulgaria)[/COLOR]
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
 
 #EXTINF:-0,          <---------------------ΨΥΧΑΓΩΓΙΑ--------------------->
 
-#EXTINF:-1, tvg-id='' tvg-logo="https://www.canlitvizle.io/wp-content/uploads/2016/03/foxtv.png" group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]Fox Channel[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]Fox Channel[/COLOR]
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, tvg-id='Foxlife.gr' tvg-logo=http://over.ddns.net/channels/android/240/foxlife.png , group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]Fox Life[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]Fox Life[/COLOR]
 http://hls.svc.moyo.tv/hls/CH_FOXLIVE/bw1896000/variant.m3u8
-#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]ALICE[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]ALICE[/COLOR]
 http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, tvg-id='' tvg-logo="https://www.canlitvizle.io/wp-content/uploads/2016/03/kanald.png" group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]Kanal D[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]Kanal D[/COLOR]
 https://2122248087.dogannet.tv/S2/HLS_LIVE/kanaldweb/1000/prog_index.m3u8?key=3ecce92ee812dff866302e26e8443ba1&live=true&app=com.kanald&min=0&max=1250
-#EXTINF:-1, tvg-id='' tvg-logo="https://www.canlitvizle.io/wp-content/uploads/2016/03/tv2.png" group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]tv 2[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]tv 2[/COLOR]
 http://yayin7.canlitvlive.tv/tv2/live.m3u8?tkn=J3NL9akZUHFkUrVItr20zg&tms=1470177645
-#EXTINF:-1, tvg-id='' tvg-logo="http://img.canlitvlive.net/logo/show-tv.png" group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]Show TV[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]Show TV[/COLOR]
 http://yayin8.canlitvlive.net/showtv/live.m3u8?tkn=2qNlWEmmliiEkhrgjgl-3A&tms=1470178109
-#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]Star TV[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]Star TV[/COLOR]
 http://yayin8.canlitvlive.net/startv/live.m3u8?tkn=SljgOtc0mebMXITE9t-1IQ&tms=1470178222|referer=http://www.canlitvlive.com/tvplayer.swf
-#EXTINF:-1, tvg-id='' tvg-logo="http://img.canlitvlive.net/logo/atv.png" group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]ATV HD[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]ATV HD[/COLOR]
 http://yayin8.canlitvlive.net/atv/live.m3u8?tkn=hqTNybWdQyDwzibMu6UVoQ&tms=1470178401|referer=http://www.canlitvlive.com/tvplayer.swf
-#EXTINF:-1, tvg-id='' tvg-logo="" group-title="ΨΥΧΑΓΩΓΙΑ", [COLOR chartreuse]Weather Nation HD[/COLOR]
+#EXTINF:-1, [COLOR chartreuse]Weather Nation HD[/COLOR]
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
 
 #EXTINF:-0,          <---------------------ΑΘΛΗΤΙΚΑ--------------------->
