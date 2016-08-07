@@ -8,13 +8,13 @@ http://0.0.0.0:12345
 #EXTINF:-1, tvg-logo="" group-title="ΓΚΡΟΥΠ", [COLOR yellow]ONOMA[/COLOR]
 #EXTINF:0 radio="true"tvg-logo="" group-title="ΓΚΡΟΥΠ", [COLOR yellow]ONOMA[/COLOR]
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-#EXTINF:-1, tvg-logo="RaiUno.it" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 1[/COLOR]
+#EXTINF:-1, [COLOR yellow]RAI 1[/COLOR]
 https://raiuno1hls-lh.akamaihd.net/i/raiuno1_1@37570/master.m3u8?hdnea=st=1467720351~exp=1467720471~acl=/*~hmac=c6847d3ada1d928b2c158c8623310a390bf7fe20b26a200020763088529f14fc
-#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 2[/COLOR]
+#EXTINF:0, [COLOR yellow]RAI 2[/COLOR]
 https://raidue1hls-lh.akamaihd.net/i/raidue1_1@322403/master.m3u8?hdnea=st=1467758183~exp=1467758303~acl=/*~hmac=0ed940e55d5aaa2930a77f7e04de610ff82a66154598a64f624b79807737a140
-#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 3[/COLOR]
+#EXTINF:-1, RAI 3
 https://raitre1hls-lh.akamaihd.net/i/raitre1_1@35171/master.m3u8?hdnea=st=1467758268~exp=1467758388~acl=/*~hmac=a271134b89bc351cbb3a285f20284989118a1c8d0847c38f27447affcfcba0fb
-#EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 4[/COLOR]
+#EXTINF:0, RAI 4
 https://raiquattro1hls-lh.akamaihd.net/i/raiquattro1_1@335025/master.m3u8?hdnea=st=1467758348~exp=1467758468~acl=/*~hmac=519664bf4374b9eb3e6a48aaf435e49ad1a6dc66c44d74c7b30562922a913be2
 #EXTINF:-1, tvg-logo="" group-title="ΙΤΑΛΙΑ", [COLOR yellow]RAI 5[/COLOR]
 http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8?auth=daEcPdNdybqdfbabzaXcycndIc0bwaKcFay-bxFdC5-c0-BmAxvFt&aifp=
