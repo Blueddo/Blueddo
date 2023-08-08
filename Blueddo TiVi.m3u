@@ -1,0 +1,48 @@
+#EXTM3U url-tvg="https://github.com/GreekTVApp/EPG-GRCY/releases/download/EPG/epg.xml.gz,http://epgspot.com/rytec_epg/rytecGR_Basic.xz,http://epgspot.com/rytec_epg/rytecGR_SportMovies.xz,https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="3600"  m3uautoload=1 deinterlace=0 aspect-ratio=16:9
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Blueddo-TV" tvg-id="" tvg-name="" $ExtFilter="Blueddo TV",[COLOR blueviolet][B]📺Blueddo TiVi Greek & World TeleVision📺[B][/COLOR]
+https://ak5.picdn.net/shutterstock/videos/1072225/preview/stock-footage-pretty-lady-watching-tv-with-popcorn-in-her-living-room.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/UpdatePlaylist" tvg-id="" tvg-name="" $ExtFilter="Blueddo TV",[COLOR gold][B]03-01-2023 📡 Ενημέρωση Λίστας 📡 23 32 (Copyright © 2023 by BlueddoTV)[B][/COLOR]
+https://cdn.shutterstock.com/shutterstock/videos/4522559/preview/stock-footage-young-woman-watching-tv.mp4
+
+#                          GROUP<---------------------ΠΑΝΕΛΛΑΔΙΚΑ--------------------->GROUP
+
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/50KEpj5.png" tvg-id="ert1" tvg-name="ΕΡΤ1" $ExtFilter="Blueddo TV",ΕΡΤ1 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/yPkeOTL.png" tvg-id="EPT1.gr" tvg-name="ΕΡΤ1" $ExtFilter="Blueddo TV",ΕΡΤ1 SD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_360/chunks_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/AHhSc79.png" tvg-id="ert2" tvg-name="ΕΡΤ2" $ExtFilter="Blueddo TV",ΕΡΤ2 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/k6erxYV.png" tvg-id="EPT2.gr" tvg-name="ΕΡΤ2" $ExtFilter="Blueddo TV",ΕΡΤ2 SD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev2_main/mainabr/ert_ev2_main/main_360/chunks_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/CfXCKNj.png" tvg-id="ert3" tvg-name="ΕΡΤ3" $ExtFilter="Blueddo TV",ΕΡΤ3 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/4utWCvC.png" tvg-id="EPT3.gr" tvg-name="ΕΡΤ3" $ExtFilter="Blueddo TV",ΕΡΤ3 SD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev3_main/mainabr/ert_ev3_main/main_360/chunks_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/6HTXIb0.png" tvg-id="ertsports" tvg-name="" $ExtFilter="Blueddo TV",EPT Sport 1
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/umNk0Ik.png" tvg-id="ertsports2" tvg-name="" $ExtFilter="Blueddo TV",EPT Sport 2
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/TvRjIDq.png" tvg-id="ertsports3" tvg-name="" $ExtFilter="Blueddo TV",EPT Sport 3
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/mainabr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/BgEQ8Qy.png" tvg-id="mega.gr" tvg-name="MEGA HD" $ExtFilter="Blueddo TV",MEGA HD
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/hntGJwR.png" tvg-id="mega" tvg-name="MEGA HD" $ExtFilter="Blueddo TV",MEGA SD
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b332000.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/qOhMl9U.png" tvg-id="ant1" tvg-name="ANT1 Greece" $ExtFilter="Blueddo TV",ANT1 HD
+http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/URXqG1C.png" tvg-id="ant1europe" tvg-name="ANT1 Europe" $ExtFilter="Blueddo TV",ANT1 Europe
+http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/bZVtaK6.png" tvg-id="Star" tvg-name="Star" $ExtFilter="Blueddo TV",STAR HD
+http://livestar.siliconweb.com/media/star1/star1.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/H4xXTz0.png" tvg-id="Star.gr" tvg-name="Star" $ExtFilter="Blueddo TV",STAR SD
+https://livestar.siliconweb.com/media/star1/star1lowhd.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/KqEJeMu.png" tvg-id="alpha" tvg-name="Alpha TV" $ExtFilter="Blueddo TV",ALPHA HD
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/NRHEcA2.png" tvg-id="open" tvg-name="Open Beyond TV" $ExtFilter="Blueddo TV",OPEN TV HD
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/dhg5B4h.png" tvg-id="Skai" tvg-name="Skai" $ExtFilter="Blueddo TV",SKAI HD
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/g0E7BEW.png" tvg-id="onetv" tvg-name="ONE Channel HD" $ExtFilter="Blueddo TV",ONE Channel HD (Twitch)
+https://www.twitch.tv/onechanneltv
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/WeUAyA1.png" tvg-id="mtv" tvg-name="Μακεδονία TV" $ExtFilter="Blueddo TV",MAKEDONIA TV HD
+http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
